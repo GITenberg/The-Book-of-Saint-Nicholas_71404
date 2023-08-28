@@ -1,11 +1,16 @@
 _repo: The-Book-of-Saint-Nicholas_71404
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71404-h/images/i-cover.jpg
 creator:
   author:
     agent_name: Oudenarde, Dominie Nicholas Ægedius
     gutenberg_agent_id: '56214'
     url: http://www.gutenberg.org/2009/agents/56214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71404#The-Book-of-Saint-Nicholas
 gutenberg_issued: '2023-08-14'
 identifiers:
   gutenberg: '71404'
